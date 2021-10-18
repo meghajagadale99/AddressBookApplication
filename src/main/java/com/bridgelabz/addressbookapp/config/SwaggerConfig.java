@@ -1,3 +1,7 @@
+/**
+ * Layer that configures swagger application
+ */
+
 package com.bridgelabz.addressbookapp.config;
 
 
