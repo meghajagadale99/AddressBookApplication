@@ -9,6 +9,7 @@
  ******************************************************************************/
 package com.bridgelabz.addressbookapp.model;
 
+import com.bridgelabz.addressbookapp.dto.AddressBookDTO;
 import lombok.Data;
 
 import javax.persistence.GeneratedValue;
@@ -26,5 +27,7 @@ public class AddressBookData {
     private String city;
     private String mobileNo;
     private int zipCode;
+
+
 }
 
