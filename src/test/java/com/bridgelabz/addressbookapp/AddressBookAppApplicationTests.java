@@ -1,10 +1,11 @@
-package com.bridgelabz.AddressbookApplication;
+package com.bridgelabz.addressbookapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootTest
-class AddressbookApplicationTests {
+class AddressBookAppApplicationTests {
 
 	@Test
 	void contextLoads() {
